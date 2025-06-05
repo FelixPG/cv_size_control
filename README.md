@@ -1,4 +1,4 @@
-# cv_size_control
+# CV_size_control
 Repository for the codes and data associated with the Proulx-Giraldeau et al., 2025 paper. 
 
 
